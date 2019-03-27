@@ -10,11 +10,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 
-
-/**
- *
- * @author elitsa
- */
 public class PizzaBarFuntionalTests {
     
     WebDriver driver;
@@ -28,10 +23,6 @@ public class PizzaBarFuntionalTests {
         driver = new HtmlUnitDriver();
         driver.get("http://localhost:3000/index.html");
         
-       
-        /*WebElement element = driver.findElement(By.name("q"));
-        element.sendKeys("Cheese!");
-        element.submit();*/
     }
     
     @Test

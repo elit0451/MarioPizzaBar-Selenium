@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.mariopizzabar.selenium;
 
 import org.openqa.selenium.By;
@@ -11,10 +6,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
-/**
- *
- * @author elitsa
- */
 public class MarioPizzaBar {
   public static void main(String[] args) {
               
