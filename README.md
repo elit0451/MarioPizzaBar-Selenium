@@ -9,7 +9,7 @@ This repository contains a setup for automated UI tests with Selinium. The tests
 1. The Web user interface will be accessible through `localhost:3000`
 
 1. Clone the project using the  following command **or** download the repository zip file
-`https://github.com/elit0451/MarioPizzaBar-Selenium.git`
+`git clone https://github.com/elit0451/MarioPizzaBar-Selenium.git`
 
 1. Open the solution into an IDE for Java and run the [_PizzaBarFuntionalTests.java_](https://github.com/elit0451/MarioPizzaBar-Selenium/blob/master/src/test/java/PizzaBarFuntionalTests.java) test file
 
