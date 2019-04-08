@@ -18,3 +18,11 @@ This repository contains a setup for automated UI tests with Selinium. The tests
 <p align="left">
 <img src="https://waffleio-direct-uploads-production.s3.amazonaws.com/uploads/5b631124103d580013dcf6a4/125516c66e82c728ace21e0d46db978826878dba87e6ab03f60da1cd6416743e7b53e37922cbb37cf1122d43434d0eee1e020a17b8eb8339a3e46979820e5ae8d76b5d72943411adb0d41beb57bb72895d99a4fedb1294b7607caddecd5d340c041083fe5830a39e49c85ff743e34e5db65e.png" width="50%" align="center">
 </p>
+
+<br/>
+
+___
+> #### Assignment made by:   
+`David Alves 👨🏻‍💻 ` :octocat: [Github](https://github.com/davi7725) <br />
+`Elitsa Marinovska 👩🏻‍💻 ` :octocat: [Github](https://github.com/elit0451) <br />
+> Attending "Tests" course of Software Development bachelor's degree
