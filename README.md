@@ -1,4 +1,4 @@
-# MarioPizzaBar-Selenium <img src="supermario.jpeg" height="45" align="center">
+# MarioPizzaBar-Selenium <img src="./images/supermario.jpeg" height="45" align="center">
 
 This repository contains a setup for automated UI tests with Selinium. The tests are made based on a static HTML Web user interface which can be fired up by the commands in the following section:
 
