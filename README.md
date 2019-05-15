@@ -1,4 +1,4 @@
-# MarioPizzaBar-Selenium <img src="https://waffleio-direct-uploads-production.s3.amazonaws.com/uploads/5b631124103d580013dcf6a4/125516c66e82c728ace21e0d46bac3cb6ed0d4f8dab9e6169b4dff9a2d43357a2703ee3b799ff929f2527a121b0e53f91c07051de1a4d869ffe92125d70351b4cf2d0123d42103ecfadd45ea52fe32815d80e4e9834492b93823e189891d371e0410dffb0963a1cb49da44e409b01301fb4e6f29b33424765595197f2d6e6225acfdd95f8f8160a7b30262.jpeg" height="45" align="center">
+# MarioPizzaBar-Selenium <img src="supermario.jpeg" height="45" align="center">
 
 This repository contains a setup for automated UI tests with Selinium. The tests are made based on a static HTML Web user interface which can be fired up by the commands in the following section:
 
@@ -16,7 +16,7 @@ This repository contains a setup for automated UI tests with Selinium. The tests
 ## Test results
 
 <p align="left">
-<img src="https://waffleio-direct-uploads-production.s3.amazonaws.com/uploads/5b631124103d580013dcf6a4/125516c66e82c728ace21e0d46db978826878dba87e6ab03f60da1cd6416743e7b53e37922cbb37cf1122d43434d0eee1e020a17b8eb8339a3e46979820e5ae8d76b5d72943411adb0d41beb57bb72895d99a4fedb1294b7607caddecd5d340c041083fe5830a39e49c85ff743e34e5db65e.png" width="50%" align="center">
+<img src="./images/tests.png" width="50%" align="center">
 </p>
 
 <br/>
